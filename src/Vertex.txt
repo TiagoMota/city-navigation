@@ -1,0 +1,9 @@
+casa 1 Casa inicio 0 2
+escritorio 2 Escritorio fim 2 10
+bombaCepsa 3 BombaCepsa bomba 1.5 2.1
+feup 4 FEUP paragem 0.8 2
+hsj 5 HospitalS.Joao paragem 1.4 2
+pj 6 PoliciaJudiciaria paragem 0 0.5
+escolaSecundaria 7 EscolaSecundaria paragem 6 3
+tabacariaSousa 8 TabacariaSousa paragem 1 1.3
+parque 9 Parque paragem 1.4 9
